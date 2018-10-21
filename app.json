@@ -1,0 +1,9 @@
+{
+  "name": "docker-django",
+  "description": "docker django postgresql circleci heroku",
+  "keywords": ["django", "docker", "heroku"],
+  "repository": "https://github.com/FlyingUZI/teamproject2",
+  "logo": "https://raw.githubusercontent.com/xxx/xxx/master/logo.png",
+  "env": {},
+  "addons": ["heroku-postgresql:hobby-dev", "scheduler:standard"]
+}
