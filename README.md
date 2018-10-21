@@ -1,4 +1,4 @@
-# teamproject2
+# Deploy Django on Docker to Heroku with Circle CI
 
 [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=popout-square&label=Fork)](https://github.com/ErgoFriend/docker-django-circleci-heroku)
 
